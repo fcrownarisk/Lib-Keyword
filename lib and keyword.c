@@ -1,4 +1,3 @@
-
 #include "stdio.h" //Standard Input and Output 
 //Formatted Output-Printf
 //Formatted Input-Scanf
