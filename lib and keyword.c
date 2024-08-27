@@ -25,7 +25,7 @@
 #include "signal.h" //
 
 //Chapter8 The UNIX System Interface
-//File Desscriptors 8.2 Low Level I/O --Read and Write
+//File Descriptors 8.2 Low Level I/O --Read and Write
 //Open Creat Close Unlink
 // 8.4Random Access-Lseek   8.5 Example --An Implementation of Fopen and Gect   8.6 Example--Listing Directories
 //
