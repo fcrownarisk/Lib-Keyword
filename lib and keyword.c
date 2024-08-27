@@ -28,8 +28,6 @@
 //File Descriptors 8.2 Low Level I/O --Read and Write
 //Open Creat Close Unlink
 // 8.4Random Access-Lseek   8.5 Example --An Implementation of Fopen and Gect   8.6 Example--Listing Directories
-//
-
 #include "time.h"
 
 //Headers may be included in any order and any number of times.A header must be
@@ -39,7 +37,6 @@
 //Keyword in C language
 //auto double int struct break else long switch case enum register typedef
 //char extern return union const float short unsigned continue for signed 
-
 
 //C99 Keyword
 //void default goto sizeof volatile do if static while
